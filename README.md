@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript that arises when performing arithmetic operations on incompatible types.  The `add` function is defined to accept two numbers, but the code calls it with a number and a string, resulting in a type error. The solution showcases how to properly type-check inputs to avoid such errors.
